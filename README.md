@@ -12,4 +12,4 @@ In mathematics, a conic section (or simply conic) is a curve obtained as the int
 - Python script 
 - exported STL files of the individual pieces
 
-![image](./conics.jpg)
+![image](./conics.png)
